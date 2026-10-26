@@ -2,7 +2,8 @@
 
 ### Projects
 
-- [doomqd](https://github.com/rob9481/doomqd): A port of doom(generic) to qt; rasterized for now. 
+- [doomqd](https://github.com/rob9481/doomqd): A port of doom(generic) to qt; rasterized for now.
+- [asyncproc](https://github.com/rob9481/portfolio/projects/asyncproc): A demo of python's async that gathers random stock prices.
 - [MLxx](https://github.com/rob9481/portfolio/projects/mlxx): A tiny subset of the OCaml frontend in C++.
 
 <!--
