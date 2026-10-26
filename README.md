@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, my name's Rob.
+
+### Projects
+
+- [doomqd](https://github.com/rob9481/doomqd): A port of doom(generic) to qt; rasterized for now. 
+- [MLxx](https://github.com/rob9481/portfolio/projects/mlxx): A tiny subset of the OCaml frontend in C++.
 
 <!--
 **rob9481/rob9481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
